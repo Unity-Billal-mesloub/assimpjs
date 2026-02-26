@@ -5,14 +5,14 @@
 [Check out the live demo here!](http://kovacsv.github.io/assimpjs)
 
 [![npm version](https://badge.fury.io/js/assimpjs.svg)](https://badge.fury.io/js/assimpjs)
-[![Native Build](https://github.com/kovacsv/assimpjs/actions/workflows/native_build.yml/badge.svg)](https://github.com/kovacsv/assimpjs/actions/workflows/native_build.yml)
-[![WASM Build](https://github.com/kovacsv/assimpjs/actions/workflows/wasm_build.yml/badge.svg)](https://github.com/kovacsv/assimpjs/actions/workflows/wasm_build.yml)
+[![Native Build](https://github.com/Unity-Billal-mesloub/assimpjs/actions/workflows/native_build.yml/badge.svg)](https://github.com/Unity-Billal-mesloub/assimpjs/actions/workflows/native_build.yml)
+[![WASM Build](https://github.com/Unity-Billal-mesloub/assimpjs/actions/workflows/wasm_build.yml/badge.svg)](https://github.com/Unity-Billal-mesloub/assimpjs/actions/workflows/wasm_build.yml)
     
 </div>
 
 # assimpjs
 
-The [emscripten](https://emscripten.org) interface for the [assimp](https://github.com/assimp/assimp) library. It runs entirely in the browser, and allows you to import 40+ 3D file formats and access the result in JSON or glTF format. This is not a full port of assimp, but an easy to use interface to access it's functionality.
+The [emscripten](https://emscripten.org) interface for the [assimp](https://github.com/Unity-Billal-mesloub/assimp) library. It runs entirely in the browser, and allows you to import 40+ 3D file formats and access the result in JSON or glTF format. This is not a full port of assimp, but an easy to use interface to access it's functionality.
 
 ## How to install?
 
