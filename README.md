@@ -1,5 +1,6 @@
-<div align="center">
+
     
+<img src="docs/images/assimpjs_logo_small.png?raw=true"> <br>
 
 [Check out the live demo here!](http://kovacsv.github.io/assimpjs)
 
