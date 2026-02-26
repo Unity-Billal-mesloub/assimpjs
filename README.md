@@ -1,8 +1,8 @@
-
+<div align="center">
     
 <img src="docs/images/assimpjs_logo_small.png?raw=true"> <br>
 
-[Check out the live demo here!](http://kovacsv.github.io/assimpjs)
+[Check out the live demo here!](http://Unity-Billal-mesloub.github.io/assimpjs)
 
 [![npm version](https://badge.fury.io/js/assimpjs.svg)](https://badge.fury.io/js/assimpjs)
 [![Native Build](https://github.com/Unity-Billal-mesloub/assimpjs/actions/workflows/native_build.yml/badge.svg)](https://github.com/Unity-Billal-mesloub/assimpjs/actions/workflows/native_build.yml)
